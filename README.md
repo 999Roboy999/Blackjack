@@ -1,2 +1,2 @@
-# Pong
-**Description**: User can control the paddle with arrow keys and there will be a cpu controlled paddle. As the user hits the ball, the points increase. As points increase they will pass checkpoints which increase the speed and background. As levels increase the number of balls increase. Every time user misses a ball one of their lives decreases
+# Blackjack
+**Description**: User plays simplified Blackjack with animations coded using Java and Java swing. Hit to get another card, goal is to get as close to 21 as possible or exactly 21. Losing makes you lose points and winning makes you win points.
